@@ -22,8 +22,8 @@ void setup() {
   pinMode(d, OUTPUT);
 
   /*pinMode(armup, INPUT_PULLUP);
-  
-  pinMode(armdown, INPUT_PULLUP);*/
+
+    pinMode(armdown, INPUT_PULLUP);*/
 
 }
 
